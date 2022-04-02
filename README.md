@@ -1,4 +1,4 @@
-# Learn-Java
+# Learn-HTML e CSS
 🔴~🟡~🔵 | Aprendendo HTML e CSS, Projetos antigos e novos também 🟧🟦
 
 ##
@@ -15,7 +15,7 @@
 
 ## 【📕】 **About**
 
-**This repositorio** is exercises, evaluations, external projects (such as videos) about Java, here is where I began to enter the world for programming. ☕❤️☕
+**This repositorio** is exercises, evaluations, external projects (such as videos) about HTML e CSS, here is where I began to enter the world for programming. ☕❤️☕
 
 ## 【📘】 **More about**
 
